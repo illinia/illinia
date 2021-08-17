@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, JS, TS!**
 
-- 📫 How to reach me **seolin1218@gmail.com**
+<!-- - 📫 How to reach me **seolin1218@gmail.com** -->
 
 
 <h3 align="left">Languages and Tools:</h3>
